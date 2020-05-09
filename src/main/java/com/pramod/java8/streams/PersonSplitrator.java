@@ -1,4 +1,4 @@
-package com.pramod.java8;
+package com.pramod.java8.streams;
 
 import java.util.Spliterator;
 import java.util.function.Consumer;
